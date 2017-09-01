@@ -1,0 +1,2 @@
+# phpsamplecode
+small php scripts
